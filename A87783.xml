@@ -1,0 +1,227 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Kings Majesties message to His Highnesse the Prince of VVales. Concerning the Lord Generall Fairfax, and the Army; and his propositions and desires therein, to be communicated to the Right Honorable the Earl of VVarwick, Lord high Admirall of England. Dated from Hurst Castle, the 6. of December, 1648. Also, His Majesties letter to the Parliament, touching the Army, and the confinement of his royal person to the said castle; with his desires to the citizens of London, touching the saame. And Lieutenant Gen. Crumwels declaration in reference to the King, city, and kingdom: signed O. Crumwel.</title>
+            <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87783</idno>
+            <idno type="STC">Wing K601</idno>
+            <idno type="STC">Thomason E475_31</idno>
+            <idno type="STC">ESTC R205426</idno>
+            <idno type="EEBO-CITATION">99864814</idno>
+            <idno type="PROQUEST">99864814</idno>
+            <idno type="VID">162486</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162486)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 76:E475[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Kings Majesties message to His Highnesse the Prince of VVales. Concerning the Lord Generall Fairfax, and the Army; and his propositions and desires therein, to be communicated to the Right Honorable the Earl of VVarwick, Lord high Admirall of England. Dated from Hurst Castle, the 6. of December, 1648. Also, His Majesties letter to the Parliament, touching the Army, and the confinement of his royal person to the said castle; with his desires to the citizens of London, touching the saame. And Lieutenant Gen. Crumwels declaration in reference to the King, city, and kingdom: signed O. Crumwel.</title>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>Charles I, King of England, 1600-1649.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. VVharton,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Dec: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-09</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162486:1" rendition="simple:additions"/>
+            <p>The Kings Majeſties MESSAGE To His Highneſſe the Prince of VVALES, <hi>CONCERNING</hi> The Lord Generall <hi>Fairfax,</hi> and the <hi>Army;</hi> and His Pro<g ref="char:EOLhyphen"/>poſitions and Deſires therein, to be communicated to the Right Honorable the Earl of <hi>VVarwick,</hi> Lord high Admirall of <hi>England.</hi>
+            </p>
+            <p>
+               <hi>Dated from Hurſt Caſtle, the</hi> 6. <hi>of December,</hi> 1648.</p>
+            <p>Alſo, His Majeſties letter to the Parliament, touching the <hi>Aru<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y,</hi> and the confinement of his Royal perſon to the ſaid Caſtle; with his deſires to the Citizens of <hi>London,</hi> touching the ſame.</p>
+            <p>
+               <hi>And Lieutenant Gen.</hi> Crumwels <hi>Declaration in reference to the King, City, and Kingdom.</hi> Signed O. Crumwel.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+            </figure>
+            <p>Printed for <hi>G. VVharton,</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162486:2"/>
+            <pb n="1" facs="tcp:162486:2"/>
+            <head>A LETTER From Lieut. Generall CRUMWEL To the Citizens of <hi>London.</hi> Concerning the Kings Majeſty, the Parliament, the City, Army, and Kingdome.</head>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>HEre hath lately been called a Generall Coun<g ref="char:EOLhyphen"/>cell of Officers, conſiſting of the Northerne Brigade, whoſe reſults acquieſſe and tend <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hiefly to the ſafety and preſervation of your Honou<g ref="char:EOLhyphen"/>rable City, and to the welfare and tranquility of our
+<pb n="2" facs="tcp:162486:3"/>Engliſh Nation; as appeares by the moſt excellent demonſtration of Lieu. Gen. <hi>Cromwell,</hi> at the Councell table, in preſence of divers Colonels, Lieut. Colonels, Majors, and Captains, who declared, <hi>That he was wil<g ref="char:EOLhyphen"/>ling to wade through all troubles and difficulties, for pre<g ref="char:EOLhyphen"/>ſervation of the peace and tranquility of this bleeding Kingdom, and would ſacrifice his life for the peace and liberty of the ſubject, and for diſſipating the diſmall cloud of Malignancy, which threatens ruine to all the well-affe<g ref="char:EOLhyphen"/>cted within the Nation.</hi>
+            </p>
+            <p>And for the better propagating of the ſaid work, the ſaid Lieutenant Generall (our worthy and ever hono<g ref="char:EOLhyphen"/>red Patriot) hath declared his ardent and zeafous affe<g ref="char:EOLhyphen"/>ction to his Excellency the Lord Generall; proteſting, That he will live and dye with him, for the obtaining and faciliating the juſt Demands and Deſires of the Army, ſpecified in their late Remonſtrance, and that he doth moſt really and freely coucur with them, for the ſpeedy executing of impartiall Juſtice upon all Offenders whatſoever; intimating, that he doth verily believe they are things which God puts into the harts both of Officers and Souldiers, and that the great Je<g ref="char:EOLhyphen"/>hovah of Heaven is pleaſed to manifeſt his preſence unto them, in purſuing and proſecuting ſo pious<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e worke, ſo much tending to the honour of his holy Name and the peace and tranquility of all his people on Earth; which declaratory expreſſions, have pre<g ref="char:EOLhyphen"/>fented to his Excellency the Lord Gen. <hi>Fairfax,</hi> and</p>
+            <closer>
+               <signed>
+                  <hi>Signed</hi> O. CRUMWEL.</signed>
+               <dateline>
+                  <hi>Knottingſley neer Pontefract</hi> 
+                  <date>2. <hi>Decemb.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="3" facs="tcp:162486:3"/>
+            <head>A Meſſage from the King concerning the Army.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>HIs Majeſty having ſeriouſly peruſed the Re<g ref="char:EOLhyphen"/>monſtrance of the Army, findes it to be of ſo high a nature, that Hee cannot but ſtand amaz'd at the ſence, ſcope, and method thereof, and doth de<g ref="char:EOLhyphen"/>clare, <hi>That He ſhould rather ſacrifice His life, for His People, and a good Couſcience, than be guilty of the En<g ref="char:EOLhyphen"/>gagement of modelling and establiſhing a new Govern<g ref="char:EOLhyphen"/>men;</hi> but withall remonſtrates, <hi>That He approves of their Propoſals for rectifying the Law, and purging the a<g ref="char:EOLhyphen"/>buſes and errous thereof, for the eaſe and liberty of His peo<g ref="char:EOLhyphen"/>ple, deſiring that all their Reſults and Conſultations may redound to the honour of theſe bleeding Nations, &amp;c.</hi>
+            </p>
+            <p>And his Majeſty hath further declared, that (not<g ref="char:EOLhyphen"/>withſtanding the preſent diſtractions, and diſſolving of the Treaty, yet) <hi>He deſires from His very heart and ſoule that the peace of His Kingdomes may bee ſpeedily eſtabli<g ref="char:EOLhyphen"/>ſhed, and the liberty of the Subject preſerved und unvio<g ref="char:EOLhyphen"/>lated, whatſoever becomes of Him, &amp;c.</hi>
+            </p>
+            <p>Col. <hi>Ewers</hi> uſeth his Majeſty with much civility and reſpect, and the deportment of the Soldiery taketh deep impreſſion in his Majeſties heart, which cauſeth a great change and alteration in his Majeſties Royall Breaſt, and it is hoped few dayes will produce a convince<g ref="char:EOLhyphen"/>ment from his Majeſty of all his former errours.</p>
+            <p>Divers ſhipping lye hovering upon this Coaſt, and it is ſuppoſed they would fain attempt a deſigne for reſcuing the <hi>King</hi> from the power and protection of the <hi>Army,</hi> but ſtrong Guards are placed, and much vi<g ref="char:EOLhyphen"/>gilancy uſed for the defence and ſafety of this Iſland.</p>
+            <closer>
+               <dateline>
+                  <hi>Newport</hi>
+                  <date>
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Decemb.</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="text">
+            <pb n="4" facs="tcp:162486:4"/>
+            <head>A Declaration of the proceedings in Parliament, concerning the KING.</head>
+            <p>BOth Houſes having received a Letter from the Lord Generall <hi>Fairfax,</hi> for the gaining to ſuch ends as have been propoſed in the Armies late Remonſtrance, and preſſing them to the preſent appre<g ref="char:EOLhyphen"/>henſion of the dangerous Juncture of affaires; the Commons began to conſult upon the ſame, whoſe de<g ref="char:EOLhyphen"/>bates ſor'd up, and flew exceeding high; ſome moving that his Excellencies Commiſſion might be made null and taken from him; Others, that the Army might be required to retreat 40 miles from <hi>London,</hi> and others moved, that the City might be put into a poſture of War; but Sheriff <hi>Brown</hi> ſtood up, and made an excel<g ref="char:EOLhyphen"/>lent Speech, declaring, <hi>That there was nothing to be ex<g ref="char:EOLhyphen"/>pected from the City, and that for his part he would indea<g ref="char:EOLhyphen"/>vour the preſervation of the peace thereof, and to keepe a right understanding between his Excellency, the City, and Army.</hi> And Mr <hi>Pryn</hi> declared his ſenſe and reſolution touching the Army, cyting many preſidents, that many have been voted traytors for diſobeying auth<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rity of Parliament, but for his part he would not ſay that any were ſuch. After ſome diſputation and debate thereon, the Houſe voted that a Declaratory Letter ſhould be preſented to the Generall, a coyy whereof followeth,</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>May it pleaſe your Excellency,</salute>
+                  </opener>
+                  <p>THe Houſe taking notice by your Letter of the 30. of <hi>Novem.</hi> touching the preſent motion and deſigne of the army, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e commanded me to let you know, that upon mature deliberate judging, that it may be dange<g ref="char:EOLhyphen"/>rous both to the City and army; it is their pleaſure that you <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>move not the army near <hi>London;</hi> and to the end
+<pb facs="tcp:162486:4"/>the country may not be burthened with free quarter, nor the army want their due ſupport, they have com<g ref="char:EOLhyphen"/>manded me to acquaint you, that they have ſignified their pleaſure to the Lord Major, Aldermen, and com<g ref="char:EOLhyphen"/>mon councell, that they forthwith provide the ſum of 40000. <hi>l.</hi> or ſo much thereof as they can poſſibly raiſe at preſent, and pay the ſame to the Treaſurers at wars, to be forthwith ſent unto you for our army, which be<g ref="char:EOLhyphen"/>ing all have in command, I remain</p>
+                  <closer>
+                     <signed>
+                        <hi>Your humble ſervant, VVil. Lenthal</hi> Speaker.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="text">
+            <head>His Maieſties Declaration upon his coming into <hi>Wiltſhire.</hi>
+            </head>
+            <p>
+               <hi>MY Lords,</hi> You are come to take your leave of me, and I believe we ſhall ſcarce ever ſee each other again: but Gods will be done, I thank God I have made my peace with him, and ſhall without fear undergoe what he ſhall be pleaſed to ſuffer men to do unto me. <hi>My Lords,</hi> you cannot but know, that in my fall and ru<g ref="char:EOLhyphen"/>ine, you ſee your own, and that alſo neer to you; I pray God ſend you better friends then I have found. I am fully infoamed of the whole cariage of the plot againſt me and mine; and nothing ſo much afflicts me, as the ſence and feeling I have of the ſufferings of my Sub<g ref="char:EOLhyphen"/>jects, and the miſerice that hang over my three King<g ref="char:EOLhyphen"/>domr, drawn upon them by thoſe who (upon pretences of good) violently purſue their own intereſts and ends. His Maj having thus declared himſelf, the Comm<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſio<g ref="char:EOLhyphen"/>ners kiſſed his Maj. hand, and took their leave. And on Friday morning laſt, his Mai. was guarded by a troope of horſe from the <hi>Iſle of VVight,</hi> to <hi>Hurſt Caſtle</hi> in <hi>VVilt<g ref="char:EOLhyphen"/>ſhire,</hi> where he is now ſecured, Cap. <hi>Mild<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay,</hi> cap. <hi>Ioy<g ref="char:EOLhyphen"/>ner,</hi> cap. <hi>VVeston,</hi> Mr. <hi>Herbert,</hi> Mr. <hi>Cutchſide, Mr. Reding</hi> and <hi>Mr. Lewen,</hi> being appointed Attendants for his <hi>Maiesties</hi> perſon.</p>
+            <pb n="6" facs="tcp:162486:5"/>
+            <p>SIR, Since his Majeſties comming to this Caſtle, he hath been uſed with much civility and reſpect, and (according to our information from one of his Maje<g ref="char:EOLhyphen"/>ſties attendants) hath ſent a letter to his Son the Prince of <hi>Wales,</hi> to advertize him of the Armies removing his perſon from the Iſle of <hi>Wight,</hi> to <hi>Hurſt</hi> Caſtle upon the conſines of <hi>Wiltſhire,</hi> requiring him to uſe his utmoſt endeavours for a good accommodation and correſpon<g ref="char:EOLhyphen"/>dency between the two Navies, and to mediate with his Lordſhip for a mutuall reconciliation between his Ma<g ref="char:EOLhyphen"/>ieſty, the Parliament, and the Army. And by the ſame intelligencer, it is further intimated, That the King hath likewiſe ſent a letter to both houſes of Parliament, ad<g ref="char:EOLhyphen"/>vertizing them of his preſent condition ſince his pre<g ref="char:EOLhyphen"/>ſent confinement to the ſaid Caſtle, deſiring them to proceed in a Parliamentary way, in reference to their rights and priviledges, and to indeavour a right under<g ref="char:EOLhyphen"/>ſtanding between his Excellency, the Parliament, City, and Army. Which letters are ſaid to be tranſmitted from his <hi>Maieſty.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <hi>Hurſt Castle</hi>
+                  <date>Decemb. 6. 1648.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS:</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
